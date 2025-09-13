@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @lamMilo<br>👀 I’m interested in Networking (Arista or Cisco<br>📫 How to reach me admin@ffcld.cloud<br>😄 Pronouns: they/them<br>⚡ Fun things to do: CISCO: erase stratup-config ARISTA: delete stratup-config
+👋 Hi, I’m @lamMilo<br>👀 I’m interested in Networking (Arista or Cisco)<br>📫 How to reach me admin@ffcld.cloud<br>😄 Pronouns: they/them<br>⚡ Fun things to do: CISCO: erase stratup-config ARISTA: delete stratup-config
 
 
 ## 🌐 Socials:
